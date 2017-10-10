@@ -1,5 +1,5 @@
 //HERC01R JOB MSGCLASS=H,MSGLEVEL=(1,1),CLASS=A,NOTIFY=HERC01,          00010000
-//   USER=HERC01,PASSWORD=
+//   USER=HERC01,PASSWORD=CUL8TR
 //********************************************************************  00020000
 //*                                                                     00030000
 //*   COPY THE BASIC360 DISTRIBUTION FROM TAPE TO DISK                  00040000
@@ -33,7 +33,7 @@
 //********************************************************************  00320000
 //STEP02   EXEC  PGM=IEFBR14                                            00330000
 //DD2 DD DSN=HERC01.BASIC360.LOADLIB,DISP=(NEW,CATLG,DELETE),           00340000
-//       UNIT=3350,VOL=SER=PUB000,SPACE=(TRK,(15,15,15)),               00350000
+//       UNIT=3350,VOL=SER=PUB000,SPACE=(TRK,(25,15,15)),               00350000
 //       DCB=(RECFM=U,BLKSIZE=19068)                                    00360000
 //DD3 DD DSN=HERC01.BASIC360.PLI,DISP=(NEW,CATLG,DELETE),               00370000
 //       UNIT=3350,VOL=SER=PUB000,SPACE=(TRK,(30,30,30)),               00380000
