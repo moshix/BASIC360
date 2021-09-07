@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/423767742546575361.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 # BASIC360
 
 
@@ -15,3 +16,5 @@ Welcome to BASIC360 Version 2.2.0
            A PDF is included that is a marked up draft version of the original specs for BASIC.
                                                                                    
  Have fun.    
+ <br><br>
+ Updated: September 2021
